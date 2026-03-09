@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>
+  </GameName>
+  <CategoryName>
+  </CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+    <CustomVariables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>5</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="03/07/2026 22:13:16" isStartedSynced="False" ended="03/07/2026 22:13:26" isEndedSynced="False" />
+    <Attempt id="2" started="03/07/2026 22:40:06" isStartedSynced="True" ended="03/07/2026 22:42:37" isEndedSynced="True" />
+    <Attempt id="3" started="03/07/2026 22:43:15" isStartedSynced="True" ended="03/07/2026 22:44:06" isEndedSynced="True" />
+    <Attempt id="4" started="03/07/2026 22:48:24" isStartedSynced="True" ended="03/07/2026 22:48:35" isEndedSynced="True" />
+    <Attempt id="5" started="03/07/2026 22:49:17" isStartedSynced="True" ended="03/07/2026 22:52:49" isEndedSynced="True" />
+    <Attempt id="6" started="03/07/2026 22:53:10" isStartedSynced="True" ended="03/07/2026 22:58:11" isEndedSynced="True" />
+    <Attempt id="7" started="03/07/2026 22:58:25" isStartedSynced="True" ended="03/07/2026 22:59:34" isEndedSynced="True" />
+    <Attempt id="8" started="03/08/2026 00:06:49" isStartedSynced="True" ended="03/08/2026 00:06:52" isEndedSynced="True" />
+    <Attempt id="9" started="03/08/2026 16:10:14" isStartedSynced="True" ended="03/08/2026 16:19:22" isEndedSynced="True">
+      <RealTime>00:09:08.0031194</RealTime>
+    </Attempt>
+    <Attempt id="10" started="03/08/2026 20:05:20" isStartedSynced="True" ended="03/08/2026 20:07:28" isEndedSynced="True" />
+    <Attempt id="11" started="03/08/2026 20:16:22" isStartedSynced="True" ended="03/08/2026 20:17:28" isEndedSynced="True" />
+    <Attempt id="12" started="03/08/2026 20:18:06" isStartedSynced="True" ended="03/08/2026 20:27:40" isEndedSynced="True">
+      <RealTime>00:09:34.1274096</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Fia</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:01:02.4743426</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:02.4743426</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="12">
+          <RealTime>00:01:02.4743426</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Ferraniumburg</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:01:16.0076234</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:13.5332808</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="12">
+          <RealTime>00:00:13.5332808</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Cyberspace</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:09.8656030</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:53.8579796</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="12">
+          <RealTime>00:02:53.8579796</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Villa Mia</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:05:59.6729877</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:49.8073847</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="12">
+          <RealTime>00:01:49.8073847</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Reifen</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:07:08.6261023</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:08.9531146</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="12">
+          <RealTime>00:01:08.9531146</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Megaphon</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:08:13.5934423</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:04.9673400</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="12">
+          <RealTime>00:01:04.9673400</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Meer</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:09:34.1274096</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:20.5339673</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="12">
+          <RealTime>00:01:20.5339673</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
