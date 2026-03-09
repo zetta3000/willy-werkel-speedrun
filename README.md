@@ -1,5 +1,9 @@
 # willy-werkel-speedrun
 
+## My YouTube channel
+
+[https://www.youtube.com/@zetta3000](https://www.youtube.com/@zetta3000)
+
 ## LiveSplit
  
 Download and install [LiveSplit](https://livesplit.org/downloads/).
