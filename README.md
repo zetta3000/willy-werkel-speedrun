@@ -29,6 +29,16 @@ Add the auto splitter:
 10. OK
  
 I used [Cheat Engine](https://www.cheatengine.org/) to find the pointer paths.
+
+Disable the attempt counter:
+
+1. Right-click
+2. Edit Layout...
+3. Layout Settings
+4. Title
+5. Show Attempt Count: disable
+6. OK
+7. OK
  
 ## OBS
  
@@ -48,6 +58,7 @@ Add a digital clock:
 10. Datetime format: %Y-%m-%d %H:%M:%S %z
 11. Text Source: Text01`
 12. Close
+13. Under `Sources`, drag `Text01` to the top before `Display Capture".
  
 ## Cut the video
  
