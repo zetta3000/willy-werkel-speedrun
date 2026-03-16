@@ -43,7 +43,14 @@ Disable the attempt counter:
 ## OBS
  
 Download and install [OBS](https://obsproject.com/download)
- 
+
+Disable the microphone:
+
+1. File
+2. Settings
+3. Audio
+4. Mic/...: Disabled
+
 Add a digital clock:
  
 1. Download `datetime.lua` from [here](https://obsproject.com/forum/resources/datetime-digital-clock.882/).
