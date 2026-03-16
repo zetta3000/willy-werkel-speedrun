@@ -6,6 +6,9 @@
 
 state("Willy32")
 {
+	// 0 during the first loading screen, 5 in the player selection menu and after
+	byte is_game_loading : 0x12B896;
+	
 	// 0 no, 18 yes
 	byte is_intro_finished : 0x1355E0;
 	
@@ -37,6 +40,15 @@ init
 	// The 1st delivery happens after 3 returns, the 2nd delivery after 6 returns, and so on.
 	vars.return_counter_enabled = 0;
 	vars.return_counter = 0;
+}
+
+// Reset the timer during the first loading screen.
+reset
+{
+	if (current.is_game_loading == 0)
+	{
+		return true;
+	}
 }
 
 start
